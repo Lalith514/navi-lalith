@@ -4,12 +4,12 @@ Get perfect linear gradient colors for non-designer .
 
 # Installation 
 
-`npm i navilalith --save`
+`npm i lalith --save`
 
 Then...
 
 ```
-import { navilalith } from 'navilalith';
+import { navilalith } from 'lalith';
 
 navilalith({
     color_type: 'greenpink'
